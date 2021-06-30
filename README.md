@@ -21,8 +21,8 @@ community.
 <tr><td>Masternode Collateral</td><td>10 000 ETEN</td></tr>
 <tr><td>Halving factor</td><td>0.9 Every 64800 Blocks</td></tr>
 <tr><td>Premine</td><td>400 000 ETEN</td></tr>
-<tr><td>PORT</td><td>37001</td></tr>
-<tr><td>RPC PORT</td><td>37002</td></tr>
+<tr><td>PORT</td><td>27001</td></tr>
+<tr><td>RPC PORT</td><td>27002</td></tr>
 </tbody></table>
 <h3>Rewards Breakdown</h3>
 <table>
