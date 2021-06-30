@@ -149,7 +149,7 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1625042883;
+        genesis.nTime = 1625043768;
         genesis.nBits = 0x1e0ffff0;
         genesis.nNonce = 3017405;
 
@@ -185,9 +185,9 @@ public:
         nZerocoinStartHeight = INT_MAX;
         nZerocoinStartTime = INT_MAX;
 
-        vSeeds.push_back(CDNSSeedData("0", "95.179.144.16"));             // Primary DNS Seeder
-        vSeeds.push_back(CDNSSeedData("1", "140.82.54.171"));      // Secondary DNS Seeder
-        vSeeds.push_back(CDNSSeedData("2", "80.240.21.186"));     // Third DNS Seeder
+        vSeeds.push_back(CDNSSeedData("0", "139.180.186.231"));             // Primary DNS Seeder
+        vSeeds.push_back(CDNSSeedData("1", "45.76.33.21"));      // Secondary DNS Seeder
+        vSeeds.push_back(CDNSSeedData("2", "149.28.67.56"));     // Third DNS Seeder
 
         // https://en.bitcoin.it/wiki/List_of_address_prefixes
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 33);     // starts with B
