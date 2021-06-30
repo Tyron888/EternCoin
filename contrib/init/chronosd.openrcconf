@@ -1,0 +1,26 @@
+# /etc/conf.d/eternd: config file for /etc/init.d/eternd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/etern/etern.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/eternd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/eternd.pid"
+
+# Where to write eternd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/eternd"
+
+# User and group to own eternd process
+#BITCOIND_USER="etern"
+#BITCOIND_GROUP="etern"
+
+# Path to eternd executable
+#BITCOIND_BIN="/usr/bin/eternd"
+
+# Nice value to run eternd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

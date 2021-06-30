@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Etern
+Comment=Etern P2P Cryptocurrency
+Comment[fr]=Etern, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Etern, eşten eşe kriptografik sanal para birimi
+Exec=etern-qt %u
+Terminal=false
+Type=Application
+Icon=etern128
+MimeType=x-scheme-handler/etern;
+Categories=Office;Finance;

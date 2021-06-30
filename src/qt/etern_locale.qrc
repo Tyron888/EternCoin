@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/etern_bg.qm</file>
+        <file alias="ca">locale/etern_ca.qm</file>
+        <file alias="cs">locale/etern_cs.qm</file>
+        <file alias="da">locale/etern_da.qm</file>
+        <file alias="de">locale/etern_de.qm</file>
+        <file alias="en">locale/etern_en.qm</file>
+        <file alias="en_US">locale/etern_en_US.qm</file>
+        <file alias="es">locale/etern_es.qm</file>
+        <file alias="fi">locale/etern_fi.qm</file>
+        <file alias="fr_FR">locale/etern_fr_FR.qm</file>
+        <file alias="it">locale/etern_it.qm</file>
+        <file alias="ja">locale/etern_ja.qm</file>
+        <file alias="ko_KR">locale/etern_ko_KR.qm</file>
+        <file alias="nl">locale/etern_nl.qm</file>
+        <file alias="pl">locale/etern_pl.qm</file>
+        <file alias="pt">locale/etern_pt.qm</file>
+        <file alias="pt_BR">locale/etern_pt_BR.qm</file>
+        <file alias="ro_RO">locale/etern_ro_RO.qm</file>
+        <file alias="ru">locale/etern_ru.qm</file>
+        <file alias="sk">locale/etern_sk.qm</file>
+        <file alias="sv">locale/etern_sv.qm</file>
+        <file alias="tr">locale/etern_tr.qm</file>
+        <file alias="uk">locale/etern_uk.qm</file>
+        <file alias="zh_CN">locale/etern_zh_CN.qm</file>
+        <file alias="zh_TW">locale/etern_zh_TW.qm</file>
+    </qresource>
+</RCC>
